@@ -1,0 +1,15 @@
+form{
+    background-color: #ccc;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 10cm;
+    height: 8cm;
+    padding: 20px;
+}
+label{
+    font-size: 25px;
+    padding: 20px;
+}
+.op{
+    margin-left: 30px;
+}
